@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./bge-small-en:/app/bge-small-en
+    environment:
+      - NAME=World

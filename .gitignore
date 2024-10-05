@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+
+
+# Ignore bge-small-en directory
+bge-small-en/
+
+# Ignore virtual environment directories (if you have any)
+env/
+venv/
+
+# Ignore dependency files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+*.log
+
+# Ignore IDE-specific files (like for VS Code)
+.vscode/
