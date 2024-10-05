@@ -26,8 +26,8 @@ The application uses the following main dependencies:
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/sudhanraja16/LinkPDFChatExtractorAPI.git
+cd LinkPDFChatExtractorAPI
 ```
 
 2. Ensure you have the BGE small model in your project directory:
